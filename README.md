@@ -6,5 +6,6 @@ just some work done with the help of google
 - meta.tsv
 - l10c04_nlp_optimizing_the_text_generation_model.ipynb
 
-## licence
-use solely without malice or harm
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
